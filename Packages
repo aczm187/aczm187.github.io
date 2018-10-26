@@ -1,0 +1,14 @@
+Package: com.aczm187.
+Version: <version>
+Architecture: iphoneos-arm
+Maintainer: Sirius <anthonyc2k14@yahoo.com>
+Depends: EXAMPLE: (if a theme) anemone, winterboard (if none delete whole line)
+Filename: /EXAMPLE.deb
+Size: <deb in bytes> (NO COMMA)
+MD5sum: <md5 hash of deb> (USE COMPUTE HASH FOR THESE 3 LINES FOR WINDOWS IDK ON MAC)
+SHA1: <sha1 hash of deb>
+SHA256: <sha256 of deb>
+Section: <section on your repo> (TWEAKS THEMES ETC)
+Description: <description>
+Author: PERSONS TWEAK <TWEAKDEV@EMAIL>COM>
+Name: Tweakname
